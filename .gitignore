@@ -1,0 +1,29 @@
+.gradle
+**/build/
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+**/out/
+/out/
+
+azure_k8c_user_credentials
+**/target
+/target
+
+.DS_Store
+
+gradle.properties
